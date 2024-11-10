@@ -95,3 +95,4 @@ Frontend HTML page where users can enter recipe details, specify dietary restric
 - Enhanced environmental impact assessment for recipes.
 - Improved ingredient conversion options for more complex adjustments.
 - Creation of a chatbot that allows users to connect with a dietitian for expert advice on healthy recipes.
+- Offering alternative recipes tailored to users' dietary restrictions.
