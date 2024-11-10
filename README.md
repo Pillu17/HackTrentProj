@@ -31,10 +31,10 @@ Recipe Optimizer
 # Installation
 
 1. **Clone the repository**:
-```bash
-git clone <repository_url>
-cd recipe-optimizer
-```
+   ```bash
+   git clone <repository_url>
+   cd recipe-optimizer
+   ```
 
 2. **Install dependencies**:
    ```bash
